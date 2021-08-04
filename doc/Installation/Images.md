@@ -7,7 +7,7 @@
 > NOTE: Read the above note again!
 
 We have available for download a pre-built image based on CentOS 7 and
-Ubuntu 18.04. These images are built using
+Ubuntu 20.04. These images are built using
 [packer.io](https://packer.io).
 
 Details of the image and it's setup are:
